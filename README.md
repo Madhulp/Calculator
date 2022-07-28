@@ -1,2 +1,2 @@
 # Calculator
-https://github.com/Madhulp/Calculator/wiki
+https://inquisitive-praline-880524.netlify.app/
